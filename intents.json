@@ -1,0 +1,99 @@
+{
+  "intents": [
+    {
+      "tag": "Chemtrols",
+      "patterns": [
+        "Tell me about Chemtrols Infotech Pvt. Ltd.",
+		"What is the company details?",
+		"What is the company information?",
+        "What is Chemtrols?",
+        "When was Chemtrols Infotech founded?",
+        "Chemtrols Infotech history",
+		 "Chemtrols",
+        "Give me information on Chemtrols Infotech"
+      ],
+      "responses": [
+        "Incorporated in 2012, Chemtrols Infotech offers specialized IT services, for businesses, such as custom tailored IT solutions focused on cost efficiency and compliance. We assist companies in implementing tools and techniques that provide insight into the performance and functionality of their applications, as well as identifying the underlying causes of any failures or issues. For More Information Click Link <a href='https://chemtrolsinfotech.com'>Chemtrols Infotech </a>"
+      ]
+    },
+		
+	{
+      "tag": "Services, Service",
+      "patterns": [
+        "Tell me about Chemtrols Infotech Pvt Service.",
+        "What is Chemtrols Service",
+		"What kind of project Chemtrols do?",
+        "Service",
+        "What services does Chemtrols Infotech offer",
+		"Describe the services offered by Chemtrols Infotech.",
+        "Tell me about the IT services provided by Chemtrols Infotech."
+      ],
+      "responses": [
+        "Technology Cost Optimization, Software Asset Management (SAM), Application Performence Monitoring, Database Management / Alternate Open Source Database, Disaster Recovery Automation, Data Protection & Recovery, Cloud Cost Optimisation"
+      ]
+    },	
+		
+	{
+      "tag": "Our Customers, Customer Chemtrols Infotech Pvt. Ltd. Customers ",
+      "patterns": [
+        "Tell me about Customers Chemtrols Infotech Pvt. Ltd.",
+        "What is Chemtrols Customer",
+		"Who are Chemtrols Infotech Customers",
+		"What is Chemtrols Customer",
+        "Customer",
+        "Tell me about Chemtrols Infotech Clients",
+		"Chemtrols Infotech Customer base",
+		"Describe the services offered by Chemtrols Infotech.",
+        "Tell me about the IT services provided by Chemtrols Infotech."
+      ],
+      "responses": [
+        "BALIC , Bharti , C Dot , DCB Bank , Euronet , Future Group , Gharda , GSPC ,HDFC Ergo, ICICI Bank, ICICI Lombard, ICICI Prudential Life Insurance, ICICI Securities,IPRS, JSW , KOTAK, L&T , Mahindra CIE, Mahindra Holidays, Mahindra Rise , NSE,Oxigen, Piramal, pnb Metlife, Qualacomm, RBL Bank, Reliance Capital, Rubicon,SBILife, Tata Chemical, Tata Consultancy Services, Tata Power, Tech Mahindra,UPL"
+      ]
+    },
+		
+	
+    {
+      "tag": "Founder, Owner, Director",
+      "patterns": [
+        "Who founded Chemtrols?",
+        "Tell me about the founder of Chemtrols Infotech Pvt. Ltd.",
+		"Who is the director?",
+        "Who is the founder of Chemtrols Infotech?",
+		"Who is credited as the Owner of the company?",
+        "Chemtrols founder background"
+      ],
+      "responses": [
+        "Mr. Indranil Dasgupta - Chemtrols Infotech Pvt. Ltd."
+      ]
+    },
+	
+	
+    {
+      "tag": "Address, Location, Mumbai, Bombay, Phone",
+      "patterns": [
+        "What is the address of Chemtrols?",
+        "Where is Chemtrols located?",
+        "Tell me the exact location of Chemtrols",
+        "Chemtrols Mumbai address",
+        "Contact details for Chemtrols"
+      ],
+      "responses": [
+        "Chemtrols Industries Pvt. Ltd., Amar Hill, Saki Vihar Road, Near Saki Vihar Telephone Exchange, POWAI, Mumbai-400 072 (Maharashtra) India. Phone: +91 (22) 6715 1200, 2857 5089, Fax No.: +91 (22) 2857 1913, Email: chemtrols@chemtrols.com"
+      ]
+    },
+    {
+      "tag": "Kolkata Address, Location Phone",
+      "patterns": [
+        "What is the address of Chemtrols in Kolkata?",
+        "Where is Chemtrols located in Kolkata?",
+        "Tell me the exact location of Chemtrols Kolkata",
+        "Chemtrols Kolkata address",
+        "Contact details for Chemtrols in Kolkata"
+      ],
+      "responses": [
+        "Chemtrols Industries Pvt. Ltd., 4B- Merlin Links, 4th Floor, 166-B, S.P. Mukherjee Road, KOLKATA – 700 026 (West Bengal), Phone: +91 (033) 2419 8021, 22, Fax No.: +91 (033) 4060 5460, Email: celcalbr@chemtrols.com"
+      ]
+    }
+  ]
+}
+
