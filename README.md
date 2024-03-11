@@ -17,4 +17,4 @@
 
 9. Run the environment using python3 wsgi.py  (IF there is an error in executing the program becasue of NLTK packages then import nltk using python3 pdld.py)
  
-10. Change the URL address in app.js under "http://xyz.com" to localhost http://127.0.0.1:5000 which are running under port 5000
+10. Change the URL address in app.js under "http://xyz.com" to localhost http://127.0.0.1:5000 which is running under port 5000
